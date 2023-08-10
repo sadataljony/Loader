@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleArcLoader</string>
+    <string name="loading">Loading...</string>
+    <string name="loader_demo">Loader Demo</string>
+</resources>
